@@ -1,4 +1,4 @@
-{[
+[
 {"title":"Termux Basic"
 	,"dec":"basic",
 	"detail":""},
@@ -76,4 +76,4 @@
 "detail":""},
 {"title":"LazyMux"
 ,"dec":"script",
-"detail":""}]}
+"detail":""}]
